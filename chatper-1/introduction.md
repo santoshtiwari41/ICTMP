@@ -788,3 +788,4 @@ In project management, **projects, programs, and portfolios** are interrelated c
 | **Risk Management ⚠️** | Risks are **project-specific** and managed at the project level. | Risks are identified **across multiple projects** and managed at the program level. | Risks are analyzed at a **strategic level**, balancing high-risk/high-reward initiatives. |
 | **Example 💡** | Developing a **mobile banking app**. | Managing multiple **financial software development projects** under a **"Digital Banking Program"**. | Overseeing an **"Enterprise IT Portfolio"**, which includes multiple programs like digital banking, cybersecurity, and AI-based customer service. |
 
+ 
