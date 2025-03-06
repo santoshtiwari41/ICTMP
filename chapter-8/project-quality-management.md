@@ -413,3 +413,73 @@ By implementing QA processes, the company prevents defects **before** releasing 
 - **5S System** – Workplace organization for efficiency  
 
 TQM is widely used in industries like manufacturing, healthcare, and services to enhance competitiveness and long-term success.
+
+
+## **Question:Difference Between Validation and Verification**
+
+Both **validation** and **verification** are critical processes in project management, especially in quality assurance and product development. However, they serve different purposes and are conducted at different stages of the project lifecycle.
+
+### **1. Verification**
+
+**Definition:**  
+Verification is the process of ensuring that the product or project deliverables meet the specified requirements and are being built correctly according to defined standards, specifications, and procedures.
+
+**Purpose:**  
+To check if the product is being developed according to the plan, scope, and requirements.
+
+**Focus:**  
+- **"Are we building the product correctly?"**  
+- Ensures that the **design and development** stages are being executed as per the requirements.
+
+**When It Occurs:**  
+Verification is typically performed at various stages during the development process, before final product delivery.
+
+**Methods:**  
+- Reviews  
+- Inspections  
+- Walkthroughs  
+- Testing against predefined specifications  
+- Code reviews, audits
+
+**Example:**  
+- In software development, **code reviews** or **unit testing** verify if the code matches the requirements and works according to the specified design.
+
+---
+
+### **2. Validation**
+
+**Definition:**  
+Validation is the process of ensuring that the product or deliverable actually meets the needs and expectations of the user or client. It focuses on confirming whether the right product was built and whether it is fit for its intended purpose.
+
+**Purpose:**  
+To check if the product fulfills the intended business needs or user requirements.
+
+**Focus:**  
+- **"Are we building the right product?"**  
+- Ensures that the product or solution satisfies the **real-world requirements** and user needs.
+
+**When It Occurs:**  
+Validation happens typically at the end of the project, once the product has been developed and is ready for deployment.
+
+**Methods:**  
+- User testing  
+- System testing  
+- Acceptance testing (UAT)  
+- Customer feedback
+
+**Example:**  
+- In software development, **user acceptance testing (UAT)** is conducted to ensure the product meets the client's needs and expectations.
+
+---
+
+### **Key Differences:**
+
+| **Aspect**        | **Verification**                                    | **Validation**                                       |
+|-------------------|------------------------------------------------------|------------------------------------------------------|
+| **Focus**         | Ensures the product is built according to the specifications and design. | Ensures the product meets the user’s needs and business requirements. |
+| **Question**      | "Are we building the product correctly?"            | "Are we building the right product?"                  |
+| **Timing**        | Done throughout the development process.            | Done after the product is completed.                  |
+| **Methods**       | Reviews, inspections, audits, testing against requirements. | User acceptance testing, system testing, feedback from stakeholders. |
+| **Outcome**       | Confirms correctness of design and development processes. | Confirms that the final product satisfies customer needs and expectations. |
+
+---
