@@ -339,4 +339,101 @@ Stakeholders are categorized into four groups based on their **power** and **int
 ### **Conclusion:**  
 The **Power/Interest Grid** is a simple yet powerful tool for project managers to **identify, categorize, and manage stakeholders effectively**. By using this matrix, project teams can **engage the right people at the right time** and ensure smooth project execution. 🚀  
 
+---
+
+# **Methods to Classify Stakeholders in Project Management**  
+
+Stakeholder classification helps project managers **prioritize engagement, communication, and management strategies**. Several methods are used to classify stakeholders based on their **influence, interest, power, urgency, legitimacy, and proximity** to the project.  
+
+---
+
+## **1. Power/Interest Grid (Stakeholder Matrix)**  
+👉 **Classifies stakeholders based on:**  
+- **Power:** Ability to influence project decisions.  
+- **Interest:** Level of concern in the project's outcome.  
+
+📌 **Categories:**  
+1. **High Power – High Interest:** Manage Closely (e.g., Project Sponsor, Senior Executives).  
+2. **High Power – Low Interest:** Keep Satisfied (e.g., Government Regulators, Senior Management).  
+3. **Low Power – High Interest:** Keep Informed (e.g., End Users, Junior Employees).  
+4. **Low Power – Low Interest:** Monitor with Minimal Effort (e.g., Minor Suppliers, General Public).  
+
+✅ **Best For:** Prioritizing stakeholders based on influence and involvement.  
+
+---
+
+## **2. Power/Influence Grid**  
+👉 **Classifies stakeholders based on:**  
+- **Power:** Authority or decision-making ability.  
+- **Influence:** Ability to affect project success (even without formal power).  
+
+📌 **Categories:**  
+- **High Power – High Influence:** Key decision-makers (e.g., Senior Management).  
+- **High Power – Low Influence:** Important but not actively involved (e.g., Regulators).  
+- **Low Power – High Influence:** Active but lack decision-making power (e.g., Project Team Members).  
+- **Low Power – Low Influence:** Minimal impact (e.g., General Public).  
+
+✅ **Best For:** Understanding both formal authority and informal influence.  
+
+---
+
+## **3. Salience Model (Power-Legitimacy-Urgency Model)**  
+👉 **Classifies stakeholders based on three factors:**  
+- **Power:** Authority over project decisions.  
+- **Legitimacy:** Rightful involvement in the project.  
+- **Urgency:** Time sensitivity of their concerns.  
+
+📌 **Categories:**  
+1. **Definitive Stakeholders (High Power, High Legitimacy, High Urgency):** Must be managed closely (e.g., Project Sponsors).  
+2. **Dominant Stakeholders (High Power, High Legitimacy, Low Urgency):** Have authority but may not be involved daily (e.g., Senior Management).  
+3. **Dangerous Stakeholders (High Power, Low Legitimacy, High Urgency):** Can create problems if ignored (e.g., Political Influencers).  
+4. **Dependent Stakeholders (Low Power, High Legitimacy, High Urgency):** Need support to get their concerns addressed (e.g., End Users).  
+5. **Dormant Stakeholders (High Power, Low Legitimacy, Low Urgency):** Hold power but don’t actively engage (e.g., Investors).  
+6. **Discretionary Stakeholders (Low Power, High Legitimacy, Low Urgency):** Have interest but no decision-making power (e.g., Community Groups).  
+7. **Non-Stakeholders (Low Power, Low Legitimacy, Low Urgency):** No significant influence or interest.  
+
+✅ **Best For:** Determining stakeholder engagement priority.  
+
+---
+
+## **4. Stakeholder Influence vs. Impact Matrix**  
+👉 **Classifies stakeholders based on:**  
+- **Influence:** Ability to shape project direction.  
+- **Impact:** Level of project effect on the stakeholder.  
+
+📌 **Categories:**  
+1. **High Influence – High Impact:** Key players requiring active management.  
+2. **High Influence – Low Impact:** Can affect project but are not directly impacted.  
+3. **Low Influence – High Impact:** Affected but have little control (e.g., Employees).  
+4. **Low Influence – Low Impact:** Monitor but minimal engagement needed.  
+
+✅ **Best For:** Understanding who needs more attention and who can be managed passively.  
+
+---
+
+## **5. Internal vs. External Stakeholder Classification**  
+👉 **Classifies stakeholders based on organizational relationship:**  
+
+📌 **Categories:**  
+- **Internal Stakeholders:** Inside the organization (e.g., Project Team, Employees, Executives).  
+- **External Stakeholders:** Outside the organization (e.g., Clients, Government Agencies, Vendors).  
+
+✅ **Best For:** Managing relationships within and outside the organization.  
+
+---
+
+## **6. Primary vs. Secondary Stakeholders**  
+👉 **Classifies stakeholders based on their direct involvement:**  
+
+📌 **Categories:**  
+- **Primary Stakeholders:** Directly affected by the project (e.g., Customers, Employees).  
+- **Secondary Stakeholders:** Indirectly affected (e.g., Media, Local Community).  
+
+✅ **Best For:** Prioritizing stakeholders who are directly impacted.  
+
+---
+
+## **Conclusion**  
+Different classification methods help project managers **effectively manage and engage stakeholders** based on their **power, influence, legitimacy, and interest**. The best approach depends on the **project type, complexity, and stakeholder diversity**.  
+
 
